@@ -12,11 +12,17 @@ Key Metrics (KPIs)
 
 
 The dashboard tracks several critical high-level business metrics:
+
 Gross Revenue: 186.86M
+
 Total Revenue: 176.94M
+
 Total Profit: 48.56M
+
 Profit Margin: 27.44%
+
 Perfect Order Rate: 75%
+
 Total Shipments: 8K
 
 
