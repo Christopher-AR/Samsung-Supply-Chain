@@ -56,3 +56,12 @@ Horizontal Bar Charts: Used for comparative analysis of lead times, inventory le
 
 Progress Rings: Providing visual cues for quantities like Order QTY and Inventory Value.
 
+Tech Stack
+
+Data Visualization: Power BI Desktop
+
+
+Data Processing: Power Query Editor, SQL, DAX, Data Modeling 
+
+
+Dashboard.preview [ https://github.com/Christopher-AR/Samsung-Supply-Chain/blob/main/Overview%20Snapshot.png ]
