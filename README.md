@@ -69,5 +69,8 @@ Data Visualization: Power BI Desktop
 
 Data Processing: Power Query Editor, SQL, DAX, Data Modeling 
 
+## 📜 Credits
+This project was inspired by and developed following a tutorial by TheDeveloperYT. It serves as a practical application of Power BI skills in a real-world API data scenario.
+
 
 Dashboard.preview [ https://github.com/Christopher-AR/Samsung-Supply-Chain/blob/main/Overview%20Snapshot.png ]
